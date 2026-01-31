@@ -41,23 +41,23 @@ http://51.21.110.137:8501/
 ## 📂 Project Structure
 Carbon_Footprint_Calculator/
 │
-├── app.py # Main Streamlit application
-├── functions.py # Helper functions
-├── train_model.py # Model training script
-├── models/ # Trained ML models
-├── data/ # Dataset files
-├── style/ # UI styling files
-├── notebooks/ # Jupyter notebooks (optional)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── app.py               # Main Streamlit app
+├── functions.py         # Helper functions
+├── train_model.py       # Model training script
+├── models/              # Saved ML models
+├── data/                # Dataset files
+├── style/               # UI styling files
+├── notebooks/           # Jupyter notebooks (optional)
+├── requirements.txt     # Project dependencies
+├── README.md            # Project documentation
+
 
 
 ---
 
 ## ⚙️ Installation & Local Setup
 
-### 1️⃣ Clone the repository
-```bash
+1️⃣ Clone the repository
 git clone https://github.com/your-username/Carbon_Footprint_Calculator.git
 cd Carbon_Footprint_Calculator
 
