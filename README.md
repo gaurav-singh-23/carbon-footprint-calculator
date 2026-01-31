@@ -57,20 +57,18 @@ Carbon_Footprint_Calculator/
 
 ## ⚙️ Installation & Local Setup
 
-1️⃣ Clone the repository
-```bash
+1️⃣ Clone the repository :
 git clone https://github.com/your-username/Carbon_Footprint_Calculator.git
 cd Carbon_Footprint_Calculator
 
-2️⃣ Create and activate virtual environment
-```
+2️⃣ Create and activate virtual environment :
 python3 -m venv venv
 source venv/bin/activate
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies :
 pip install -r requirements.txt
 
-4️⃣ Run the application
+4️⃣ Run the application :
 streamlit run app.py
 
 ---
