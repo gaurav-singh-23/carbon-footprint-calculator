@@ -33,7 +33,7 @@ http://51.21.110.137:8501/
 ### Cloud & Deployment
 - AWS EC2 (Ubuntu)
 - Elastic IP
-- Linux (SSH)
+- SSH
 - systemd (24/7 execution)
 
 ---
@@ -63,6 +63,7 @@ git clone https://github.com/your-username/Carbon_Footprint_Calculator.git
 cd Carbon_Footprint_Calculator
 
 2️⃣ Create and activate virtual environment
+```
 python3 -m venv venv
 source venv/bin/activate
 
