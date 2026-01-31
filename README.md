@@ -58,6 +58,7 @@ Carbon_Footprint_Calculator/
 ## ⚙️ Installation & Local Setup
 
 1️⃣ Clone the repository
+```bash
 git clone https://github.com/your-username/Carbon_Footprint_Calculator.git
 cd Carbon_Footprint_Calculator
 
@@ -71,8 +72,9 @@ pip install -r requirements.txt
 4️⃣ Run the application
 streamlit run app.py
 
+---
 
-☁️ AWS Deployment Overview
+## ☁️ AWS Deployment Overview
 
 The application was deployed on an AWS EC2 Ubuntu instance with the following steps:
 
